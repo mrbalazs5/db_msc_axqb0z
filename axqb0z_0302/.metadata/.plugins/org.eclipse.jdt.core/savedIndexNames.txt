@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+D:\university\DB_MSC\gyak\db_msc_axqb0z\axqb0z_0302\.metadata\.plugins\org.eclipse.jdt.core
+669097512.index
+1563396771.index
+2339326806.index
+3377325982.index
+2514568934.index
+1693563816.index
