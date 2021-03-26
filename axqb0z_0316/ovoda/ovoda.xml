@@ -1,0 +1,145 @@
+<ovoda>
+    <csoport nev="maci">
+        <dolgozo id="91">
+            <nev>Katalin</nev>
+            <beosztas>óvónő</beosztas>
+            <szuletesiev>1976</szuletesiev>
+        </dolgozo>
+        <dolgozo id="46">
+            <nev>Erika</nev>
+            <beosztas>óvónő</beosztas>
+            <szuletesiev>1978</szuletesiev>
+        </dolgozo>
+        <dolgozo id="27">
+            <nev>Gizella</nev>
+            <beosztas>dadus</beosztas>
+            <szuletesiev>1970</szuletesiev>
+        </dolgozo>
+        <gyerek jel="napocska">
+            <nev>Eszter</nev>
+            <szuletesiev>2015</szuletesiev>
+        </gyerek>
+        <gyerek jel="autó">
+            <nev>Gábor</nev>
+            <szuletesiev>2015</szuletesiev>
+        </gyerek>
+        <gyerek jel="maci">
+            <nev>Eliza</nev>
+            <szuletesiev>2016</szuletesiev>
+        </gyerek>
+        <gyerek jel="szívecske">
+            <nev>Lilla</nev>
+            <szuletesiev>2017</szuletesiev>
+        </gyerek>
+        <gyerek jel="repülő">
+            <nev>Soma</nev>
+            <szuletesiev>2015</szuletesiev>
+        </gyerek>
+        <gyerek jel="alma">
+            <nev>Kristóf</nev>
+            <szuletesiev>2016</szuletesiev>
+        </gyerek>
+        <gyerek jel="méhecske">
+            <nev>Maja</nev>
+            <szuletesiev>2017</szuletesiev>
+        </gyerek>
+        <gyerek jel="baba">
+            <nev>Anna</nev>
+            <szuletesiev>2017</szuletesiev>
+        </gyerek>
+        <gyerek jel="körte">
+            <nev>Lili</nev>
+            <szuletesiev>2017</szuletesiev>
+        </gyerek>
+    </csoport>
+    <csoport nev="süni">
+        <dolgozo id="71">
+            <nev>Ildikó</nev>
+            <beosztas>óvónő</beosztas>
+            <szuletesiev>1988</szuletesiev>
+        </dolgozo>
+        <dolgozo id="83">
+            <nev>Bea</nev>
+            <beosztas>óvónő</beosztas>
+            <szuletesiev>1979</szuletesiev>
+        </dolgozo>
+        <dolgozo id="80">
+            <nev>Valéria</nev>
+            <beosztas>dadus</beosztas>
+            <szuletesiev>1980</szuletesiev>
+        </dolgozo>
+        <gyerek jel="napocska">
+            <nev>Noémi</nev>
+            <szuletesiev>2018</szuletesiev>
+        </gyerek>
+        <gyerek jel="autó">
+            <nev>Péter</nev>
+            <szuletesiev>2018</szuletesiev>
+        </gyerek>
+        <gyerek jel="maci">
+            <nev>Bence</nev>
+            <szuletesiev>2017</szuletesiev>
+        </gyerek>
+        <gyerek jel="szívecske">
+            <nev>Andrea</nev>
+            <szuletesiev>2017</szuletesiev>
+        </gyerek>
+        <gyerek jel="hajó">
+            <nev>Patrik</nev>
+            <szuletesiev>2016</szuletesiev>
+        </gyerek>
+        <gyerek jel="körte">
+            <nev>Emma</nev>
+            <szuletesiev>2016</szuletesiev>
+        </gyerek>
+        <gyerek jel="pillangó">
+            <nev>Ágnes</nev>
+            <szuletesiev>2017</szuletesiev>
+        </gyerek>  
+    </csoport>
+    <csoport nev="katicabogár">
+        <dolgozo id="25">
+            <nev>Enikő</nev>
+            <beosztas>óvónő</beosztas>
+            <szuletesiev>1968</szuletesiev>
+        </dolgozo>
+        <dolgozo id="84">
+            <nev>Lenke</nev>
+            <beosztas>óvónő</beosztas>
+            <szuletesiev>1968</szuletesiev>
+        </dolgozo>
+        <dolgozo id="90">
+            <nev>Márta</nev>
+            <beosztas>dadus</beosztas>
+            <szuletesiev>1966</szuletesiev>
+        </dolgozo>
+        <gyerek jel="napocska">
+            <nev>Anna</nev>
+            <szuletesiev>2018</szuletesiev>
+        </gyerek>
+        <gyerek jel="autó">
+            <nev>Balázs</nev>
+            <szuletesiev>2018</szuletesiev>
+        </gyerek>
+        <gyerek jel="maci">
+            <nev>Petra</nev>
+            <szuletesiev>2016</szuletesiev>
+        </gyerek>
+        <gyerek jel="szívecske">
+            <nev>Blanka</nev>
+            <szuletesiev>2017</szuletesiev>
+        </gyerek>
+        <gyerek jel="eper">
+            <nev>Lilla</nev>
+            <szuletesiev>2016</szuletesiev>
+        </gyerek>
+        <gyerek jel="pillangó">
+            <nev>Bálint</nev>
+            <szuletesiev>2016</szuletesiev>
+        </gyerek>
+        <gyerek jel="hajó">
+            <nev>Attila</nev>
+            <szuletesiev>2018</szuletesiev>
+        </gyerek>
+    </csoport>
+</ovoda>

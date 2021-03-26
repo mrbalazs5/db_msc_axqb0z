@@ -1,0 +1,57 @@
+<mozi>
+    <film id="ab1">
+        <cim>Gru</cim>
+        <ev>2010</ev>
+        <kategoria>vígjáték</kategoria>
+        <kategoria>animáció</kategoria>
+        <jatekido>95</jatekido>
+        <imbd>7.7</imbd>
+        <rendezo>2</rendezo>
+    </film>
+    <film id="ab2">
+        <cim>A bakancslista</cim>
+        <ev>2007</ev>
+        <kategoria>vígjáték</kategoria>
+        <kategoria>dráma</kategoria>
+        <jatekido>97</jatekido>
+        <imbd>7.7</imbd>
+        <rendezo>3</rendezo>
+    </film>
+    <film id="ab3">
+        <cim>Kincs, ami nincs</cim>
+        <ev>1981</ev>
+        <kategoria>vígjáték</kategoria>
+        <kategoria>akció</kategoria>
+        <jatekido>102</jatekido>
+        <imbd>7.2</imbd>
+        <rendezo>4</rendezo>
+    </film>
+    <film id="ab4">
+        <cim>Shrek</cim>
+        <ev>2001</ev>
+        <kategoria>vígjáték</kategoria>
+        <kategoria>animáció</kategoria>
+        <jatekido>90</jatekido>
+        <imbd>7.8</imbd>
+        <rendezo>1</rendezo>
+    </film>
+    <film id="ab5">
+        <cim>Életrevalók</cim>
+        <ev>2011</ev>
+        <kategoria>vígjáték</kategoria>
+        <kategoria>dráma</kategoria>
+        <jatekido>112</jatekido>
+        <imbd>8.5</imbd>
+        <rendezo>5</rendezo>
+    </film>
+    <film id="ab6">
+        <cim>Shrek 2</cim>
+        <ev>2004</ev>
+        <kategoria>vígjáték</kategoria>
+        <kategoria>animáció</kategoria>
+        <jatekido>93</jatekido>
+        <imbd>7.2</imbd>
+        <rendezo>1</rendezo>
+    </film>
+
+</mozi>

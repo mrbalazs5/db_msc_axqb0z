@@ -1,0 +1,9 @@
+xquery version "3.1";
+
+let $jatekido := fn:doc("mozi.xml")//jatekido
+let $atlag:=avg($jatekido)
+
+return
+    <eredmeny>
+        {$atlag}     
+    </eredmeny>

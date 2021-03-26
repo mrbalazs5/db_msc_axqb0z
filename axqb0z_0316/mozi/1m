@@ -1,0 +1,6 @@
+xquery version "3.1";
+
+for $f in fn:doc("mozi.xml")//film
+where $f/ev < 2000
+order by $f/cim
+return $f/cim

@@ -1,0 +1,11 @@
+xquery version "3.1";
+
+for $d in fn:doc("ovoda.xml")//dolgozo
+where $d/beosztas="dadus" and $d/szuletesiev=min(//szuletesiev)
+return 
+    <legidősebbdadus>
+        {$d/nev}
+        {$d/szuletesiev}
+    </legidősebbdadus>
+    
+
