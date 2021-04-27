@@ -1,15 +1,14 @@
 <Query Kind="Statements">
   <Connection>
-    <ID>f07ee4ca-0d48-4b37-9859-54e5d9c7cac1</ID>
+    <ID>5b2023dc-3da1-49ed-aa21-b6cb9c181c68</ID>
     <Persist>true</Persist>
     <Driver Assembly="IQDriver" PublicKeyToken="5b59726538a49684">IQDriver.IQDriver</Driver>
     <Provider>Devart.Data.MySql</Provider>
-    <CustomCxString>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAiXUPYEs5bUSxj/wEQfzHggAAAAACAAAAAAAQZgAAAAEAACAAAADEOyyaKXcO9cp3AgX+JujiuxNVcBZW9exESl6MuAh3ZAAAAAAOgAAAAAIAACAAAABnyFW0pNowoEpvYrKeSKqYBpndO5CI0TNIaycb5qnpqlAAAACEBSItwZSQLnPm02NlGMFzDE6H6WNEA59nEhsrZeBn0i5pVWG86txbBUmecpqb6Pp5dsaS+k1tcXHzJpz2EKg6/PkZk6Q25pq+LYhGrfLTfUAAAAD0TCVkwJLGfa7NJ4H6QOoHHrDtqv7l85PaDT0rmB6E2VyJZD7N0NKfC1naCXZpHvX/tQ1wFtXvG40ZRGOiDiFM</CustomCxString>
+    <CustomCxString>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAiXUPYEs5bUSxj/wEQfzHggAAAAACAAAAAAAQZgAAAAEAACAAAADjECAIHEt63J7nG3Qzpy7pf7LYDuqi5yTGZZCjesrDpwAAAAAOgAAAAAIAACAAAADuptpIz2jeJtJrDMxYHLorqS5QbZei0cOKED9zqVUeiFAAAACcyfCmUsm1kMyXPaDOGbuBKy7pveFuRZztSox1uUAFbCR7tY3O9Z6Gvr1XABgjXkmxt88ngOwqPwhHAJURQzDEXL9Gji3CzD1+Gj14NWQE00AAAACpNVtpvg9PlN6F4S8IOIncWhaAjYeNzqls3H5r2sOU1TUUnEtmqRJq8HuP/JY7N6KXZsUZGsXJTw9UfjDjCUeQ</CustomCxString>
     <Server>localhost</Server>
     <Database>db_msc_gyak</Database>
     <UserName>root</UserName>
-    <Password>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAiXUPYEs5bUSxj/wEQfzHggAAAAACAAAAAAAQZgAAAAEAACAAAADuixV68AhOlG8uEk9FINl+PEhvlLuiwgh8KO4XqOtdTAAAAAAOgAAAAAIAACAAAADvHivHlcyt2obr7YcNmwQ1Emo6KQOvaaXNPNOjIOExfxAAAAB1SofhOG5+om5PieCyOGUEQAAAAPWKUmVVQQMVINyE5qM9hjN8pniUCXvY5EvQRqWWt5t5S9yzOj0gPRDIiMgSVZD7ajAsoXlzpYnlX8tlwyzbNTE=</Password>
-    <DisplayName>db_msc</DisplayName>
+    <Password>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAiXUPYEs5bUSxj/wEQfzHggAAAAACAAAAAAAQZgAAAAEAACAAAAAAO4EFJWFophhrkxnuI3jNVBgCef3Mqs1VELTDYYs4KQAAAAAOgAAAAAIAACAAAABwBk4dAPnVGGjJyLfteyyPFPMutppB/7vuExeoBs5G6BAAAACNduQYUYsbXkzgb/6QIIsaQAAAALuDMqndnMJHI0wMyyGRoyjK+BMTyNgN1fbfxcaI4YbncwARmNlIYJ96kB01JMjWYzTS5ZPXQQLXHafO/JAU2ao=</Password>
     <EncryptCustomCxString>true</EncryptCustomCxString>
     <DriverData>
       <StripUnderscores>false</StripUnderscores>
@@ -42,7 +41,6 @@ q4.Dump();
 
 //5. feladat Mely termékek ára alacsonyabb a termékek átlag áránál?
 var avgPrice = Math.Round((double) Products.Average(p => p.Price));
-avgPrice.Dump();
 
 var q5 = Products
 			.Where(p => p.Price < avgPrice)
